@@ -26,5 +26,5 @@ Development based on excellent YouTube tutorial by Dan Greenheck @ https://www.y
 - Download a project
 - Open the project in VSCode
 - Go to terminal
-- npm install
-- npm run dev
+  - npm install
+  - npm run dev
