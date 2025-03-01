@@ -9,8 +9,8 @@ My educational development to learn how to make a voxel world similar to Minecra
 - Chunk definition with simplex noise terrain generation
 - World generation from multiple chunks
 - Infinite world generation as the player moves
-- Voxel Viewer to visualize a single voxel with different textures
 - Physics for gravity and collision detection
+- Voxel Viewer to visualize a single voxel with different textures
 
 Development based on excellent YouTube tutorial by Dan Greenheck @ https://www.youtube.com/playlist?list=PLtzt35QOXmkKALLv9RzT8oGwN5qwmRjTo
 
